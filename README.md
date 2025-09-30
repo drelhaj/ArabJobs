@@ -51,6 +51,33 @@ If you use ArabJobs, please cite: [https://arxiv.org/pdf/2509.22589](https://arx
   month={November}
 }
 ```
+---
+## 📊 Visualisations  
+
+### Gendered Job Advertisements (Word Clouds)
+
+<p align="center">
+  <img src="figures/professionwordcloud_male.png" alt="Male-oriented Ads Word Cloud" width="400"/>
+  <img src="figures/professionwordcloud_female.png" alt="Female-oriented Ads Word Cloud" width="400"/>
+</p>
+
+---
+
+### Job Ads by Country  
+
+<p align="center">
+  <img src="figures/ads_by_country_overall_english.png" alt="Job Ads by Country" width="600"/>
+</p>
+
+---
+
+### Dialectal Variation  
+
+<p align="center">
+  <img src="figures/dialects-english.png" alt="Dialect Clustering of Arabic Job Ads" width="700"/>
+</p>
+
+
 ## 📊 Example
 
 Below are sample records from the dataset:
