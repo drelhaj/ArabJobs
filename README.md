@@ -37,7 +37,7 @@ This dataset enables research in:
 If you use ArabJobs, please cite: [https://arxiv.org/pdf/2509.22589](https://arxiv.org/pdf/2509.22589)
 
 > El-Haj, M. (2025). *ArabJobs: A Multinational Corpus of Arabic Job Ads*.  
-> Proceedings of the 2nd ArabicNLP Workshop, EMNLP, Suzhou, China, 4–9 November 2025.  
+> Proceedings of the 3rd ArabicNLP Conference, EMNLP, Suzhou, China, 9-10 November 2025.  
 
 **BibTeX**:  
 
